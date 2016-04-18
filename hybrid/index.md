@@ -27,9 +27,6 @@ At its core, {{site.data.keyword.Bluemix_notm}} is an environment for you to dev
 
 {{site.data.keyword.Bluemix_notm}} Dedicated is a private cloud with physically isolated hardware in an IBM SoftLayer data center. Single-tenant, and provisioned on a combination of bare metal and virtual servers, your {{site.data.keyword.Bluemix_notm}} environment is created to fit your needs. And, with the syndicated catalog, you can power your apps with a combination of dedicated compute resources and services as well as capabilities made available through catalog syndication. Learn more about [{{site.data.keyword.Bluemix_notm}} Dedicated](../dedicated/index.html).
 
-## Local
-
-With {{site.data.keyword.Bluemix_notm}} Local, you can take advantage of the true value of a private cloud within your data center.  {{site.data.keyword.Bluemix_notm}} Local is delivered as-a-service and in constant collaboration with your IT team. It also enables you to leverage your existing mainframes, service-oriented architecture, processes, and data in a modern cloud platform. Learn more about [{{site.data.keyword.Bluemix_notm}} Local](../local/index.html).
 
 # rellinks
 ## general
